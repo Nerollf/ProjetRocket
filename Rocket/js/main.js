@@ -24,7 +24,7 @@ const rocketImage = document.querySelector('#rocket');
 const reset = document.querySelector('#reset-bouton');
 const stop = document.querySelector('#stop-bouton');
 
-let state = 5;
+let state = 10;
 let timeout;
 
 /***********************************************************************************/
